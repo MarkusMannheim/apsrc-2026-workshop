@@ -2,7 +2,7 @@
 # Incomplete: title and abstract to come.
 order: 6
 
-title: "FIRM_CE"
+title: "Rapidly exploring future grid configurations with FIRM_CE"
 
 authors:
   - name: Timothy Weber
