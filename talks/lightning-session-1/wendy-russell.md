@@ -5,11 +5,11 @@ title: "How open is your modelling?"
 
 authors:
   - name: Wendy Russell
+    presenter: true
     honorific: Dr
     affiliation: The Australian National University
     affiliation-short: ANU
   - name: Dora He
-    presenter: true
     honorific: Dr
     affiliation: The Australian National University
     affiliation-short: ANU
