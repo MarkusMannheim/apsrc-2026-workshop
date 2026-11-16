@@ -8,6 +8,14 @@ authors:
     honorific: Dr
     affiliation: The Australian National University
     affiliation-short: ANU
+  - name: Mike Turner
+    honorific: Dr
+    afflication: The Australian National University
+    affiliation-short: ANU
+  - name: Vivienne Wells
+    honorific: Miss
+    afflication: The Australian National University
+    affiliation-short: ANU
 
 links:
   - label: ERIS
