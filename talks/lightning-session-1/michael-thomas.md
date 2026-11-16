@@ -9,7 +9,7 @@ authors:
     affiliation: The Australian National University
     affiliation-short: ANU
   - name: Vivienne Wells
-    honorific: Miss
+    honorific: Ms
     afflication: The Australian National University
     affiliation-short: ANU
 
