@@ -34,8 +34,8 @@ event:
 # kind: "break" gives a row lighter styling (arrival, lunch, networking).
 sessions:
   - time: "11:00 – 11:30 am"
-    title: "Arrival, tea & coffee"
-    description: "Informal catch-up and networking before the official start."
+    title: "Arrival, registration, tea & coffee"
+    description: "Check in at the registration desk, then catch up over tea and coffee before the official start."
     kind: break
 
   - time: "11:30 – 11:45 am"
