@@ -34,8 +34,8 @@ event:
 # kind: "break" gives a row lighter styling (arrival, lunch, networking).
 sessions:
   - time: "11:00 – 11:30 am"
-    title: "Arrival, tea & coffee"
-    description: "Informal catch-up and networking before the official start."
+    title: "Arrival, registration, tea & coffee"
+    description: "Check in at the registration desk, then catch up over tea and coffee before the official start."
     kind: break
 
   - time: "11:30 – 11:45 am"
@@ -55,11 +55,11 @@ sessions:
       Part 1 presenters host tables for demos, questions and discussion.
       Explore the projects that interest you.
 
-  - time: "12:45 – 1:20 pm"
+  - time: "12:45 – 1:30 pm"
     title: "Lunch"
     kind: break
 
-  - time: "1:20 – 2:00 pm"
+  - time: "1:30 – 2:00 pm"
     title: "‘Short-circuit’ talks, part 2"
     description: "Five-minute ‘lightning talks’ on open-source projects, tools and datasets."
     talks: lightning-session-2
