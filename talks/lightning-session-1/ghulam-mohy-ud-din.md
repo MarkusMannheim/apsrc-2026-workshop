@@ -7,6 +7,10 @@ authors:
   - name: Ghulam Mohy Ud Din
     honorific: Dr
     affiliation: CSIRO
+  - name: James Russell
+    honorific: Dr
+    affiliation: CSIRO
+    presenter: true
 
 links:
   - label: Repository
