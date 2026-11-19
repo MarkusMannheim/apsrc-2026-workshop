@@ -55,11 +55,11 @@ sessions:
       Part 1 presenters host tables for demos, questions and discussion.
       Explore the projects that interest you.
 
-  - time: "12:45 – 1:30 pm"
+  - time: "12:45 – 1:20 pm"
     title: "Lunch"
     kind: break
 
-  - time: "1:30 – 2:00 pm"
+  - time: "1:20 – 2:00 pm"
     title: "‘Short-circuit’ talks, part 2"
     description: "Five-minute ‘lightning talks’ on open-source projects, tools and datasets."
     talks: lightning-session-2
