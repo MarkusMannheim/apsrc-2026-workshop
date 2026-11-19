@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 3
 
 title: "griphos: A rust and python package for modelling and solving electricity networks"
 

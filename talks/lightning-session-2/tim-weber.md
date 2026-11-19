@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 7
 
 title: "Rapidly exploring future grid configurations with FIRM_CE"
 
