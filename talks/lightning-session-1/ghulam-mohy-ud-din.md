@@ -10,6 +10,7 @@ authors:
   - name: James Russell
     honorific: Dr
     affiliation: CSIRO
+    presenter: true
 
 links:
   - label: Repository
