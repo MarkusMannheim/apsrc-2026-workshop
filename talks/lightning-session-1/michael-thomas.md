@@ -8,8 +8,8 @@ authors:
     honorific: Dr
     affiliation: The Australian National University
     affiliation-short: ANU
+    presenter: true
   - name: Vivienne Wells
-    honorific: Ms
     afflication: The Australian National University
     affiliation-short: ANU
 
