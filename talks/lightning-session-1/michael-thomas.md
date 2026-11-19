@@ -8,6 +8,10 @@ authors:
     honorific: Dr
     affiliation: The Australian National University
     affiliation-short: ANU
+    presenter: true
+  - name: Vivienne Wells
+    afflication: The Australian National University
+    affiliation-short: ANU
 
 links:
   - label: ERIS
