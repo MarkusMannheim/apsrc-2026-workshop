@@ -7,8 +7,8 @@ authors:
   - name: Dan Gordon
     presenter: true
     honorific: Dr
-    affiliation: ANU Center for Energy Systems, The Australian National University
-    affiliation-short: ACES, ANU
+    affiliation: The Australian National University
+    affiliation-short: ANU
 
 links:
   - label: Repository
