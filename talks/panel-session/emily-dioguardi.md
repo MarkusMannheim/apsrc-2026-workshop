@@ -4,8 +4,7 @@ order: 3
 title: "Open-source modelling at CSIRO"
 
 authors:
-  - name: James Foster
-    honorific: Dr
+  - name: Emily Dioguardi
     affiliation: CSIRO
 ---
 
