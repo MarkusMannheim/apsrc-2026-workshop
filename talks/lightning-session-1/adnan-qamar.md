@@ -5,6 +5,13 @@ title: "Model-Based Systems Engineering for Alumina Decarbonisation"
 
 authors:
   - name: Adnan Qamar
+    presenter: true
+    affiliation: CSIRO
+  - name: Rodolfo Garcia-Flores
+    honorific: Dr
+    affiliation: CSIRO
+  - name: Amro M. Farid
+    honorific: Prof
     affiliation: CSIRO
 ---
 
