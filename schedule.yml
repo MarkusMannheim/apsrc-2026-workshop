@@ -16,7 +16,7 @@ event:
   # Page footer and PDF title (defaults to the title if left out)
   footer: "APSRC Open-Source Energy System Modelling Workshop"
   date: "Monday 30 November 2026"
-  time: "11:00 am for an 11:30 am start · Finishes 4:00 pm, followed by networking"
+  time: "11:00 am for an 11:30 am start · Finishes 4:10 pm, followed by networking"
   venue: "Room 6.02, [Marie Reay Teaching Centre](https://maps.app.goo.gl/GrTQ6SBZfmydb6HM8), Australian National University, Canberra"
   note: "In person only"
   # support: "Supported by RACE for 2030 and DCCEEW"   # optional text line under the venue
@@ -38,39 +38,39 @@ sessions:
     description: "Check in at the registration desk, then catch up over tea and coffee before the official start."
     kind: break
 
-  - time: "11:30 – 11:45 am"
+  - time: "11:30 – 11:40 am"
     title: "Welcome & introduction"
     description: >-
       Opening remarks from RACE for 2030, then an overview of the day from the
       organisers, housekeeping, and an introduction to the all-day activities.
 
-  - time: "11:45 am – 12:15 pm"
+  - time: "11:40 am – 12:20 pm"
     title: "‘Short-circuit’ talks, part 1"
     description: "Five-minute ‘lightning talks’ on open-source projects, tools and datasets."
     talks: lightning-session-1
 
-  - time: "12:15 – 12:45 pm"
+  - time: "12:20 – 1:00 pm"
     title: "Open floor: demos & discussion"
     description: >-
       Part 1 presenters host tables for demos, questions and discussion.
       Explore the projects that interest you.
 
-  - time: "12:45 – 1:20 pm"
+  - time: "1:00 – 2:00 pm"
     title: "Lunch"
     kind: break
 
-  - time: "1:20 – 2:00 pm"
+  - time: "2:00 – 2:30 pm"
     title: "‘Short-circuit’ talks, part 2"
     description: "Five-minute ‘lightning talks’ on open-source projects, tools and datasets."
     talks: lightning-session-2
 
-  - time: "2:00 – 2:30 pm"
+  - time: "2:30 – 3:00 pm"
     title: "Open floor: demos & discussion"
     description: >-
       Part 2 presenters host tables for demos, questions and discussion.
       Explore the projects that interest you.
 
-  - time: "2:30 – 3:30 pm"
+  - time: "3:00 – 4:00 pm"
     title: "Panel session"
     description: >-
       Presentations and a panel on ideas, issues and practice in open-source
@@ -78,13 +78,13 @@ sessions:
       Chaired by Prof Iain MacGill (UNSW).
     talks: panel-session
 
-  - time: "3:30 – 4:00 pm"
+  - time: "4:00 – 4:10 pm"
     title: "Wrap-up & next steps"
     description: >-
       Reflections from the day's activities and a discussion of what this
       community wants to do next.
 
-  - time: "From 4:00 pm"
+  - time: "From 4:10 pm"
     title: "Networking"
     description: "Informal drinks and conversation."
     kind: break
